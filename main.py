@@ -5,7 +5,7 @@ def collaborative_storytelling():
     )
 
     story = []
-    filename = "humanity.txt"
+    filename = "Humanity.txt"
     add_more = True
 
     while add_more:
