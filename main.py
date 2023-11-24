@@ -4,8 +4,8 @@ def collaborative_storytelling():
         "Start the story with a sentence. Each person will add a sentence to continue the story."
     )
 
-    story = []
-    filename = "Abass_story.txt"
+    story = [] 
+    filename = "Jem_story.txt"
     add_more = True
 
     while add_more:
